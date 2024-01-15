@@ -1,7 +1,7 @@
 # Cache Simulation Project for Matrix Multiplication Efficiency
 
 ## Project Overview
-This project enhances matrix multiplication efficiency through a detailed cache simulation. Key contributions were made in [YOURCODEHERE.c](YOURCODEHERE.c) within a larger framework simulating cache operations. This project focuses on understanding and optimizing cache hierarchy impacts on computational efficiency.
+This project enhances matrix multiplication efficiency through a detailed cache simulation. Key contributions were made in [`YOURCODEHERE.c`](YOURCODEHERE.c) within a larger framework simulating cache operations. This project focuses on understanding and optimizing cache hierarchy impacts on computational efficiency.
 
 ## Getting Started
 ### Prerequisites
@@ -13,12 +13,12 @@ This project enhances matrix multiplication efficiency through a detailed cache 
 2. Extract and navigate to the project directory.
 
 ### Usage
-1. Core modifications are in [YOURCODEHERE.c](YOURCODEHERE.c), which contains the main cache simulation logic.
+1. Core modifications are in [`YOURCODEHERE.c`](YOURCODEHERE.c), which contains the main cache simulation logic.
 2. Compile the project using the provided `Makefile`: Run `make` to build the executable.
 3. Test the implementation with `make test`.
 
 ## Implementation Details
-Modifications in [YOURCODEHERE.c](YOURCODEHERE) include:
+Modifications in [`YOURCODEHERE.c`](YOURCODEHERE) include:
 - Implementing cache access and manipulation functions.
 - Optimizing data movement between cache layers.
 
@@ -42,7 +42,7 @@ The project includes other files forming the simulation framework:
 - `NMM-csim.WORKING.testout`: Correct output for test cases, useful for debugging.
 - `utils.c`: Utility functions for the simulation.
 - `utils.h`: Header file for utility functions.
-- [YOURCODEHERE.c](YOURCODEHERE): Core file containing implemented cache functionalities.
+- [`YOURCODEHERE.c`](YOURCODEHERE): Core file containing implemented cache functionalities.
 - `YOURCODEHERE.h`: Header file for functions defined in `YOURCODEHERE.c`.
 
 ## Contributions
@@ -53,5 +53,5 @@ This project is part of an educational assignment. External contributions are no
 
 ## Acknowledgments
 - Thanks to the course instructor Professor 	
-[Jack Sampson](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=jms1257) and peers for foundational support.
+[`Jack Sampson`](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=jms1257) and peers for foundational support.
 - Acknowledges the provided framework as integral to the project.
